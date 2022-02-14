@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Krunal Pardasani , @kp3283
 - 👀 I’m interested in Data Analytics , Data Mining and Machine learning.
 - 🌱 I’m currently learning machine learning 
-- 💞️ I’m looking to collaborate on data analysis
+- 💞️ I’m looking to for an internship for the Data Analyst/ Business Analyst role.
 - 📫 You can reach me @ kprdsani@gmail.com ,
 - LinkedIn Profile : https://www.linkedin.com/in/krunalpardasani/  
 - My Portfolio : https://krunalpardasani097.wixsite.com/eureka/
